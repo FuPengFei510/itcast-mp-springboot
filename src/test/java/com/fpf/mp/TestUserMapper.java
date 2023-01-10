@@ -217,5 +217,6 @@ public class TestUserMapper {
         for (User user : records) {
             System.out.println(user);
         }
+        System.out.println("hello,test");
     }
 }
